@@ -1,0 +1,6 @@
+[
+    { "program" : "Laragon", "exe" : "C:\\Laragon\\laragon.exe" },
+    { "program" : "Atom", "exe" : "C:\\Users\\Serban\\AppData\\Local\\atom\\atom.exe" },
+    { "program" : "CommandLine", "exe" : "C:\\Cygwin\\bin\\mintty.exe" },
+    { "program" : "Chrome", "exe" : "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe" }
+]
